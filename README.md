@@ -14,10 +14,7 @@
   🌱 Atualmente estudando html, css, javascript e react
 </div>
 
-<div>
-  <a href="https://github.com/amaurell"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaurell" />
-
+[![amaurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurell)](https://github.com/amaurell/github-readme-stats)
 
 <!--
 **amaurell/amaurell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
