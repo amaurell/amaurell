@@ -11,7 +11,7 @@
 <div>
   <br/>
   🔭 Stack front-end<br/>
-  🌱 Atualmente estudando html, css, javascript,docker e react
+  🌱 Atualmente estudando html, css, javascript,docker e react<br/>
 </div>
 
 ![amaurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurell&show_icons=true&theme=dark)
