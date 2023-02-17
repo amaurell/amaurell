@@ -13,6 +13,15 @@
   🔭 Stack front-end<br/>
   🌱 Atualmente estudando html, css, javascript e react
 </div>
+
+<div>
+  <a href="https://github.com/amaurell"
+  <img height="https://github-readme-stats.vercel.app/api?username=amaurella&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=amaurell&show_icons=true" />
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+</div>
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=amaurella&show_icons=true&theme=dark"
