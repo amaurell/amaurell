@@ -16,6 +16,7 @@
 </div>
 
 ![amaurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurell&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amaurell)](https://github.com/amaurell/github-readme-stats)
 
 
 
