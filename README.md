@@ -14,7 +14,7 @@
   🌱 Atualmente estudando html, css, javascript e react
 </div>
 
-[![amaurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurell)](https://github.com/amaurell/github-readme-stats)
+
 ![amaurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurella&show_icons=true&theme=dracula)
 
 <!--
