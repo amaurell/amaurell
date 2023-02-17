@@ -16,7 +16,7 @@
 
 <div>
   <a href="https://github.com/amaurell"
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaurell)](https://github.com/amaurell/github-readme-stats)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaurell" />
 
 
 <!--
