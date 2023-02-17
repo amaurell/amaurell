@@ -14,8 +14,8 @@
   🌱 Atualmente estudando html, css, javascript e react
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-![amaurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurella&show_icons=true&theme=dracula)
 
 <!--
 **amaurell/amaurell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
