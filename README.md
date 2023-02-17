@@ -13,7 +13,7 @@
   🔭 Stack front-end<br/>
   🌱 Atualmente estudando html, css, javascript e react
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurella&show_icons=true&bg_color=00000000)
 
 <!--
 **amaurell/amaurell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
