@@ -11,11 +11,11 @@
 <div>
   <br/>
   🔭 Stack front-end<br/>
-  🌱 Atualmente estudando html, css, javascript e react
+  🌱 Atualmente estudando html, css, javascript,docker e react
 </div>
 
 ![amaurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurell&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
