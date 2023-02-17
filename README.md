@@ -14,7 +14,7 @@
   🌱 Atualmente estudando html, css, javascript e react
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![amaurell's GitHub stats](https://github-readme-stats.vercel.app/api?username=amaurell&show_icons=true&theme=dark)
 
 
 <!--
