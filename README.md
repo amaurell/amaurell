@@ -10,8 +10,8 @@
 </div>
 <div>
   <br/>
-  🔭 Stack front-end
-  🌱 Atualmente estudando html, css, javascript e react<br/>
+  🔭 Stack front-end<br/>
+  🌱 Atualmente estudando html, css, javascript e react
 </div>
 
 
