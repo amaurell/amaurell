@@ -16,23 +16,8 @@
 
 <div>
   <a href="https://github.com/amaurell"
-  <img height="https://github-readme-stats.vercel.app/api?username=amaurella&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=amaurell&show_icons=true" />
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amaurell)](https://github.com/amaurell/github-readme-stats)" />
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=amaurella&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=amaurell&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=amaurell&show_icons=true" />
-</picture>
 
 <!--
 **amaurell/amaurell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
