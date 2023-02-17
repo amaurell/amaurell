@@ -13,12 +13,7 @@
   🔭 Stack front-end<br/>
   🌱 Atualmente estudando html, css, javascript e react
 </div>
-<a href="https://github.com/amaurell/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurella&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amaurellra&repo=convoychat" />
-</a>
+
 
 <!--
 **amaurell/amaurell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
