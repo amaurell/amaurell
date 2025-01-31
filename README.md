@@ -11,7 +11,7 @@
 <div>
   <br/>
   🔭 Stack -> full-stack<br/>
-  🌱 Atualmente estudando html, css, javascript,docker, go e python.
+  🌱 Atualmente estudando Javascript, Go, NodeJs, e React.
   <br/>
 </div>
 <div>
